@@ -17,3 +17,6 @@ unique = {1, 2, 3, 4, 4, 5} #there cannot be repeat numbers, that's why its uniq
 users = {'Sanji':1, 'Luffy':2, 'Zoro':3}
 #Dictornary is a way to describe and organize data. It consists of key-value pairs, where each key is unique and maps to a value.
 #In this example, we have a dictionary called 'users' where the keys are the names of the characters and the values are their corresponding numbers.
+
+#You'll notice of you run the code, all that will show up is "Hello, Strawhats!" and "Hello, Sanji!" because the other variables are not being printed.
+#To see the values of the other variables, you can use the print() function to print them out.
